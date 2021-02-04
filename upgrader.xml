@@ -2,20 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.anabata.com">
   <channel>
     <title>For unit test only</title>
-    <item>
-        <title>Version 2.0</title>
-        <description>desc</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.anabata.app" sparkle:version="2.0" />
-        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
-    </item>
+ 
     <!-- The best chosen release -->
     <item>
         <title></title>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.anabata.app" sparkle:version="" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.anabata.app" sparkle:version="2.2" sparkle:os="android" />
         <sparkle:deltas>
             <enclosure url="https://play.google.com/store/apps/details?id=com.anabata.app"
-            sparkle:version=""
+            sparkle:version="2.2"
             sparkle:deltaFrom="2.0"
             length="1235"
             type="application/octet-stream"
